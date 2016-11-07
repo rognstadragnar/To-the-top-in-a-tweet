@@ -1,11 +1,7 @@
 {
-  "name": "scroll-to-the-top-in-a-tweet",
+  "name": "to-the-top-in-a-tweet",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "To the top: A Simple JS scroll-to-the-top-thingamajiggy",
   "author": "Ragnar Aasen Rognstad",
   "license": "MIT"
 }
